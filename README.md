@@ -9,6 +9,5 @@ Press enter to start entering inputs:
 
 ## Authors
 
-This is an education project.
-We developed this game with my son Selim Ersezer.
-He is learning Python
+This is an educational puspose project.
+We developed this game with my son Selim while learning Python and discovering his new gift the HP Prime.
