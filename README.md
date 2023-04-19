@@ -9,4 +9,6 @@ Press enter to start entering inputs:
 
 ## Authors
 
-This is an education project with my son Selim Ersezer.
+This is an education project.
+We developed this game with my son Selim Ersezer.
+He is learning Python
