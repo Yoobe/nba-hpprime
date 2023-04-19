@@ -7,6 +7,13 @@ Press enter to start entering inputs:
 - Angle : Shot angle in degree. Use 0-9 and . 
 - Velocity : Stenght of the shoot in m/s. Use 0-9 and . 
 
+## Todo
+
+- 2 players mode
+- Add wind parameter
+- Cleaner UI and animations
+- use KB or Touch to provide inputs instead of entering values (like console)
+
 ## Authors
 
 This is an educational puspose project.
