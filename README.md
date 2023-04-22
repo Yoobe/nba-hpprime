@@ -1,6 +1,8 @@
 # NBA
 Basketball Shooting Game for HP Prime in Python
 
+![Screenshot](https://github.com/Yoobe/nba-hpprime/blob/main/resources/Screenshot%204.png?raw=true "Screenshot")
+
 ## Commands
 
 Press enter to start entering inputs:
