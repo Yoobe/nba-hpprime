@@ -9,6 +9,8 @@ Press enter to start entering inputs:
 - Angle : Shot angle in degree. Use 0-9 and . 
 - Velocity : Stenght of the shoot in m/s. Use 0-9 and . 
 
+Press "On" to exit the game.
+
 ## Todo
 
 - 2 players mode
